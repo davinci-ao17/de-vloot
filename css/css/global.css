@@ -1,0 +1,34 @@
+.balk {
+  background-color: #A9D5D4;
+  width: 100%;
+  height: 324px;
+}
+
+.header {
+  margin: 0 auto;
+  background-image: url(/css/grfx/header.jpg);
+  width: 797px;
+  height: 268px;
+}
+
+li {
+  float: left;
+  padding-right: 27px;
+  margin: 0px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+li a {
+  padding-top: 159px;
+  padding-bottom: 42px;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+
+}
