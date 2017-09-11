@@ -1,0 +1,99 @@
+*{
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("background.jpg");
+  text-align: center;
+}
+ul.top-menu {
+  position: absolute;
+    list-style-type: none;
+    margin-top: 157px;
+    padding: 0;
+    overflow: hidden;
+    text-align: left;
+    background-color: none;
+
+}
+#par1{
+  margin: 0;
+  margin-left: 20px;
+  padding: 0;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  margin-left: 20px;
+}
+
+ul.top-menu li {float: left;}
+
+ul.top-menu li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.top-menu li a:hover:not(.active) {
+  color: red;
+}
+
+ul.top-menu li a.active {background-color: #4CAF50;}
+div.ex1 {
+  text-align: left;
+  margin: 0 auto;
+  padding: 0;
+  min-width: 250px;
+  width: 50%;
+  height: 268px;
+  background-image: url("grfx/header.jpg");
+}
+div.ex2 {
+  background-color: white;
+  text-align: left;
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+  height: auto;
+}
+
+img{
+  float: left;
+  padding: 0px;
+  margin-right: 21px;
+  margin-bottom: 48px;
+}
+#onderzeeer{
+  margin-top: 20px;
+}
+#boot{
+  float: right;
+  padding: 0;
+  margin: 20px;
+}
+
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+div{
+  padding: 0;
+}
+div.absolute {
+  top: 268px;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  height: 328px;
+  position: absolute;
+  background-color: #A4DBD6;
+}
+h2{
+  margin: 0;
+  padding-top: 10px;
+  margin-left: 20px;
+}
