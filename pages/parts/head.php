@@ -5,5 +5,4 @@
 	<link rel="stylesheet" type="text/css" href="/css/css/global.css">
 	<title>De vloot</title>
 </head>
-
 <body>
