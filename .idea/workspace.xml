@@ -11,21 +11,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="head.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/css/global.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1344">
+              <caret line="210" column="1" lean-forward="false" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+              <folding>
+                <element signature="e#2#39#0" expanded="false" />
+                <element signature="e#52#139#0" expanded="false" />
+                <element signature="e#149#250#0" expanded="false" />
+                <element signature="e#255#311#0" expanded="false" />
+                <element signature="e#321#369#0" expanded="false" />
+                <element signature="e#376#440#0" expanded="false" />
+                <element signature="e#445#474#0" expanded="false" />
+                <element signature="e#483#636#0" expanded="false" />
+                <element signature="e#648#804#0" expanded="false" />
+                <element signature="e#812#869#0" expanded="false" />
+                <element signature="e#877#940#0" expanded="false" />
+                <element signature="e#946#971#0" expanded="false" />
+                <element signature="e#980#1089#0" expanded="false" />
+                <element signature="e#1095#1114#0" expanded="false" />
+                <element signature="e#1124#1260#0" expanded="false" />
+                <element signature="e#1269#1331#0" expanded="false" />
+                <element signature="e#1341#1504#0" expanded="false" />
+                <element signature="e#1514#1686#0" expanded="false" />
+                <element signature="e#1697#1828#0" expanded="false" />
+                <element signature="e#1837#1905#0" expanded="false" />
+                <element signature="e#1916#1984#0" expanded="false" />
+                <element signature="e#1994#2125#0" expanded="false" />
+                <element signature="e#2135#2158#0" expanded="false" />
+                <element signature="e#2171#2281#0" expanded="false" />
+                <element signature="e#2295#2417#0" expanded="false" />
+                <element signature="e#2432#2522#0" expanded="false" />
+                <element signature="e#2537#2660#0" expanded="false" />
+                <element signature="e#2675#2743#0" expanded="false" />
+                <element signature="e#2757#2867#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Onderzeeers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/Onderzeeers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/css/global.css">
+      <file leaf-file-name="navbaro.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/parts/navbaro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbark.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/parts/navbark.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -34,8 +84,8 @@
       <file leaf-file-name="Geschiedenis.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Geschiedenis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -44,8 +94,48 @@
       <file leaf-file-name="Kruisers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/Kruisers.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="907" lean-forward="false" selection-start-line="10" selection-start-column="907" selection-end-line="10" selection-end-column="907" />
+            <state relative-caret-position="144">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/parts/navbar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbarg.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/parts/navbarg.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vliegdekschepen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/Vliegdekschepen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbarv.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/parts/navbarv.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -55,6 +145,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>metus</find>
       <find>cras</find>
     </findStrings>
   </component>
@@ -65,10 +156,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/parts/head.php" />
-        <option value="$PROJECT_DIR$/pages/parts/navbark.php" />
-        <option value="$PROJECT_DIR$/pages/parts/navbarg.php" />
         <option value="$PROJECT_DIR$/pages/Kruisers.php" />
+        <option value="$PROJECT_DIR$/pages/Geschiedenis.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/Vliegdekschepen.php" />
+        <option value="$PROJECT_DIR$/pages/onderzeeërs.php" />
+        <option value="$PROJECT_DIR$/pages/Onderzeeers.php" />
         <option value="$PROJECT_DIR$/css/css/global.css" />
+        <option value="$PROJECT_DIR$/pages/parts/navbarv.php" />
+        <option value="$PROJECT_DIR$/pages/parts/navbarg.php" />
+        <option value="$PROJECT_DIR$/pages/parts/navbar.php" />
+        <option value="$PROJECT_DIR$/pages/parts/navbark.php" />
+        <option value="$PROJECT_DIR$/pages/parts/navbaro.php" />
       </list>
     </option>
   </component>
@@ -79,9 +178,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="396" />
-    <option name="y" value="-28" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="326" />
+    <option name="y" value="-22" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -157,6 +256,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,12 +284,15 @@
       <option name="presentableId" value="Default" />
       <updated>1505209664501</updated>
       <workItem from="1505209665858" duration="1032000" />
-      <workItem from="1505213119719" duration="2968000" />
+      <workItem from="1505213119719" duration="5530000" />
+      <workItem from="1505288696718" duration="2644000" />
+      <workItem from="1505293009522" duration="2185000" />
+      <workItem from="1505295225566" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4000000" />
+    <option name="totallyTimeSpent" value="11409000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,18 +304,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18045112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1858217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -220,6 +321,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -234,42 +336,268 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
+    <entry file="file://$PROJECT_DIR$/css/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1344">
+          <caret line="210" column="1" lean-forward="false" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+          <folding>
+            <element signature="e#2#39#0" expanded="false" />
+            <element signature="e#52#139#0" expanded="false" />
+            <element signature="e#149#250#0" expanded="false" />
+            <element signature="e#255#311#0" expanded="false" />
+            <element signature="e#321#369#0" expanded="false" />
+            <element signature="e#376#440#0" expanded="false" />
+            <element signature="e#445#474#0" expanded="false" />
+            <element signature="e#483#636#0" expanded="false" />
+            <element signature="e#648#804#0" expanded="false" />
+            <element signature="e#812#869#0" expanded="false" />
+            <element signature="e#877#940#0" expanded="false" />
+            <element signature="e#946#971#0" expanded="false" />
+            <element signature="e#980#1089#0" expanded="false" />
+            <element signature="e#1095#1114#0" expanded="false" />
+            <element signature="e#1124#1260#0" expanded="false" />
+            <element signature="e#1269#1331#0" expanded="false" />
+            <element signature="e#1341#1504#0" expanded="false" />
+            <element signature="e#1514#1686#0" expanded="false" />
+            <element signature="e#1697#1828#0" expanded="false" />
+            <element signature="e#1837#1905#0" expanded="false" />
+            <element signature="e#1916#1984#0" expanded="false" />
+            <element signature="e#1994#2125#0" expanded="false" />
+            <element signature="e#2135#2158#0" expanded="false" />
+            <element signature="e#2171#2281#0" expanded="false" />
+            <element signature="e#2295#2417#0" expanded="false" />
+            <element signature="e#2432#2522#0" expanded="false" />
+            <element signature="e#2537#2660#0" expanded="false" />
+            <element signature="e#2675#2743#0" expanded="false" />
+            <element signature="e#2757#2867#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/pages/Onderzeeers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/parts/navbark.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Geschiedenis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Kruisers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/parts/navbarg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Vliegdekschepen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbarv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbaro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#2#39#0" expanded="false" />
+            <element signature="e#52#139#0" expanded="false" />
+            <element signature="e#149#250#0" expanded="false" />
+            <element signature="e#255#311#0" expanded="false" />
+            <element signature="e#321#369#0" expanded="false" />
+            <element signature="e#376#440#0" expanded="false" />
+            <element signature="e#445#474#0" expanded="false" />
+            <element signature="e#483#636#0" expanded="false" />
+            <element signature="e#648#804#0" expanded="false" />
+            <element signature="e#812#869#0" expanded="false" />
+            <element signature="e#877#940#0" expanded="false" />
+            <element signature="e#946#971#0" expanded="false" />
+            <element signature="e#980#1089#0" expanded="false" />
+            <element signature="e#1095#1114#0" expanded="false" />
+            <element signature="e#1124#1260#0" expanded="false" />
+            <element signature="e#1269#1331#0" expanded="false" />
+            <element signature="e#1341#1504#0" expanded="false" />
+            <element signature="e#1514#1686#0" expanded="false" />
+            <element signature="e#1697#1828#0" expanded="false" />
+            <element signature="e#1837#1905#0" expanded="false" />
+            <element signature="e#1916#1984#0" expanded="false" />
+            <element signature="e#1994#2125#0" expanded="false" />
+            <element signature="e#2135#2158#0" expanded="false" />
+            <element signature="e#2171#2281#0" expanded="false" />
+            <element signature="e#2295#2417#0" expanded="false" />
+            <element signature="e#2432#2522#0" expanded="false" />
+            <element signature="e#2537#2660#0" expanded="false" />
+            <element signature="e#2675#2743#0" expanded="false" />
+            <element signature="e#2757#2867#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Geschiedenis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Kruisers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbarv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Vliegdekschepen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Kruisers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2952">
+          <caret line="123" column="23" lean-forward="true" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
+          <folding>
+            <element signature="e#2#39#0" expanded="false" />
+            <element signature="e#52#139#0" expanded="false" />
+            <element signature="e#149#250#0" expanded="false" />
+            <element signature="e#255#311#0" expanded="false" />
+            <element signature="e#321#369#0" expanded="false" />
+            <element signature="e#376#440#0" expanded="false" />
+            <element signature="e#445#474#0" expanded="false" />
+            <element signature="e#483#636#0" expanded="false" />
+            <element signature="e#648#804#0" expanded="false" />
+            <element signature="e#812#869#0" expanded="false" />
+            <element signature="e#877#940#0" expanded="false" />
+            <element signature="e#946#971#0" expanded="false" />
+            <element signature="e#980#1089#0" expanded="false" />
+            <element signature="e#1095#1114#0" expanded="false" />
+            <element signature="e#1124#1260#0" expanded="false" />
+            <element signature="e#1269#1331#0" expanded="false" />
+            <element signature="e#1341#1504#0" expanded="false" />
+            <element signature="e#1514#1686#0" expanded="false" />
+            <element signature="e#1697#1828#0" expanded="false" />
+            <element signature="e#1837#1905#0" expanded="false" />
+            <element signature="e#1916#1984#0" expanded="false" />
+            <element signature="e#1994#2125#0" expanded="false" />
+            <element signature="e#2135#2158#0" expanded="false" />
+            <element signature="e#2171#2281#0" expanded="false" />
+            <element signature="e#2295#2417#0" expanded="false" />
+            <element signature="e#2432#2522#0" expanded="false" />
+            <element signature="e#2537#2660#0" expanded="false" />
+            <element signature="e#2675#2743#0" expanded="false" />
+            <element signature="e#2757#2867#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -279,26 +607,128 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/Geschiedenis.php">
+    <entry file="file://$PROJECT_DIR$/pages/parts/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Vliegdekschepen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/Kruisers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="907" lean-forward="false" selection-start-line="10" selection-start-column="907" selection-end-line="10" selection-end-column="907" />
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/onderzeeërs.php" />
+    <entry file="file://$PROJECT_DIR$/pages/Geschiedenis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Onderzeeers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="154" column="0" lean-forward="true" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+        <state relative-caret-position="1344">
+          <caret line="210" column="1" lean-forward="false" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+          <folding>
+            <element signature="e#2#39#0" expanded="false" />
+            <element signature="e#52#139#0" expanded="false" />
+            <element signature="e#149#250#0" expanded="false" />
+            <element signature="e#255#311#0" expanded="false" />
+            <element signature="e#321#369#0" expanded="false" />
+            <element signature="e#376#440#0" expanded="false" />
+            <element signature="e#445#474#0" expanded="false" />
+            <element signature="e#483#636#0" expanded="false" />
+            <element signature="e#648#804#0" expanded="false" />
+            <element signature="e#812#869#0" expanded="false" />
+            <element signature="e#877#940#0" expanded="false" />
+            <element signature="e#946#971#0" expanded="false" />
+            <element signature="e#980#1089#0" expanded="false" />
+            <element signature="e#1095#1114#0" expanded="false" />
+            <element signature="e#1124#1260#0" expanded="false" />
+            <element signature="e#1269#1331#0" expanded="false" />
+            <element signature="e#1341#1504#0" expanded="false" />
+            <element signature="e#1514#1686#0" expanded="false" />
+            <element signature="e#1697#1828#0" expanded="false" />
+            <element signature="e#1837#1905#0" expanded="false" />
+            <element signature="e#1916#1984#0" expanded="false" />
+            <element signature="e#1994#2125#0" expanded="false" />
+            <element signature="e#2135#2158#0" expanded="false" />
+            <element signature="e#2171#2281#0" expanded="false" />
+            <element signature="e#2295#2417#0" expanded="false" />
+            <element signature="e#2432#2522#0" expanded="false" />
+            <element signature="e#2537#2660#0" expanded="false" />
+            <element signature="e#2675#2743#0" expanded="false" />
+            <element signature="e#2757#2867#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbarv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbarg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/parts/navbaro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding />
         </state>
       </provider>

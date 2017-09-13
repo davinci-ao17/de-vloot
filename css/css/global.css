@@ -1,7 +1,7 @@
 * {
   margin: 0;
+  font-style: arial;
 }
-
 
 .container {
   background-color: #A9D5D4;
@@ -62,9 +62,10 @@ ul {
   height: 200px;
 }
 
-h2 {
+.kop1 {
   float: left;
   clear: left;
+    padding-left: 20px;
 }
 
 .nunc {
@@ -140,21 +141,71 @@ h2 {
 .nunc2 {
     padding-top: 75px;
     padding-left: 23px;
-    width: 700px;
+    width: 745px;
 }
 
 .nunc2v2 {
     padding-top: 35px;
     padding-left: 23px;
-    width: 700px;
+    width: 745px;
 }
 
 .right2 {
     float: right;
-    padding-left: 30px;
-
+    padding-left: 25px;
     padding-top: 25px;
     padding-bottom: 75px;
     width: 200px;
     height: 140px;
+}
+
+.onpage {
+    color: #a4cde1;
+}
+
+.top-right {
+    float: right;
+    clear: right;
+    width: 300px;
+    height: 225px;
+    padding: 65px 25px 45px 25px;
+}
+
+.bottomleft {
+    float: left;
+    clear: left;
+    margin: 0;
+    padding: 30px 20px 0px 20px;
+    width: 150px;
+    height: 185px;
+}
+
+.bottomleft2 {
+    float: left;
+    padding: 30px 20px 85px 0px;
+    width: 150px;
+    height: 115px;
+}
+
+.bottomleft3 {
+    float: left;
+    clear: left;
+    margin: 0;
+    padding: 30px 20px 10px 10px;
+    width: 200px;
+    height: 150px;
+}
+
+.bottomleft4 {
+    float: left;
+    margin: 0;
+    padding: 30px 20px 20px 0px;
+}
+
+.top-right2 {
+    float: right;
+    clear: right;
+    width: 200px;
+    height: 150px;
+    padding: 40px 25px 45px 25px;
 }
