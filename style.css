@@ -1,0 +1,91 @@
+body {
+	margin: 0px;
+	background: url('css/grfx/bg.png') repeat-x;
+	font-family: arial;
+	o
+}
+div.pr1{
+	background: url('css/grfx/header.jpg');
+	height: 268px;
+	width: 800px;
+	margin: 0px auto;
+}
+
+div.pr2{
+	width: 760px;
+	height: auto;
+	margin: 0px auto;
+	background: white;
+	padding: 20px;
+}
+
+div.Navigation{
+	padding-left: 20px;
+	padding-bottom: 25px;
+	margin-top: 165px;
+}
+
+a.Navigation{
+	color: white;
+	text-decoration: none;
+	padding-right: 20px;
+	font-size: 14px;
+}
+
+
+
+img.Topleft{
+	float: left;
+	padding: 0px 20px 20px 0px;
+
+}
+
+img.TopRight{
+	float: right;
+	margin: 20px 0px 20px 20px;
+}
+
+img.pr2{
+	 float: right;
+    margin: 20px 0px 20px 20px;
+}
+
+img.MiddenRight {
+    float: right;
+    margin: 20px 0px 20px 20px;
+}
+
+img.bottom-left {
+    float: left;
+ 	margin: 20px 20px 0px 0px;
+}
+
+img.BottomRight {
+    float: right;
+    margin: 20px 0px 20px 20px;
+    }
+
+h1.Title {
+    margin: 0px;
+    padding: 20px 20px 0px 20px;
+
+}
+
+h2.Title {
+	margin: 0px;
+}
+
+div.content {
+	border: 1px solid red;
+    margin: 0px auto;
+    height: 1000px;
+    width: 800px;
+}   
+
+p.Title {
+	margin: 0px;
+	padding: 0px 0px 0px 20px;
+	}
+a:hover {
+	color: black;
+}
