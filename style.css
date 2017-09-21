@@ -1,0 +1,87 @@
+body {
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+header {
+	background-image: url(foto/header.jpg);	
+	background-repeat: no-repeat;		
+	height: 260px;
+	width: 42%;	
+	margin: auto;	
+}
+
+ul {
+	list-style: none;
+	padding-left: 5px;
+	padding-top: 140px;
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	text-decoration: none;
+	padding: 14px;
+	color: white;	
+}
+
+li a:hover {
+	color: black;
+}
+
+h2 {
+	margin: 5px;
+}
+
+h3 {
+	padding-left: 30px;
+	margin: 0px;
+}
+
+h1 {
+	padding-left: 30px;	
+	margin: 0px;
+}
+
+main {
+	height: 100%;
+	width: 40%;
+	margin: auto;		
+}
+
+.left {
+	float: left;
+	padding: 15px 15px 0px 0px;
+}
+
+.right{
+	float: right;	
+	padding: 15px 0px 15px 15px;
+}
+
+.leftpad {
+	float: left;
+	padding: 0px 15px 15px 0px;
+}
+
+.rightpad {
+	float: right;
+	padding: 0px 15px 15px 15px;
+}
+
+#plaats1 {
+	float: right;
+	height:320px;
+	width: 29%;
+	background-color: powderblue;
+}
+
+#plaats2 {
+	float: left;
+	height: 320px;
+	width: 29%;
+	background-color: powderblue;
+}
+
