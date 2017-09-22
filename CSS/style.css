@@ -1,0 +1,130 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+body {
+	font-family: sans serif;
+	background-image: url("../img/bg.png");
+	background-repeat: repeat-x;
+}
+#content {
+	margin:0 auto;
+	width: 42.5%;
+	background-color: #fff;
+	height: 100%;
+}
+#header {
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	height:270px;
+}
+#titel {
+	font-weight: bold;
+}
+.top-menu {
+	text-decoration: none;
+	margin-top: 135px;
+}
+.top-menu li {
+	display: inline-block;
+}
+.top-menu a {
+	padding: 10px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+.top-menu a:hover {
+	color: blue;
+	transition: 1s ease-in-out;
+}
+.top-left {
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+.top-left1 {
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	width: 250px;
+	height: 200px;
+}
+.top-left2 {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+	width: 250px;
+	height: 200px;
+}
+.bottom-left {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+	width: 100px;
+	height: 100px;
+}
+.bottom-left2 {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+	width: 100px;
+	height: 150px;
+}
+.top-left3 {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+	width: 200px;
+	height: 200px;
+}
+.top-left4 {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-bottom: 15px;
+	width: 150px;
+	height: 125px;
+}
+.top-right {
+	float: right;
+	padding-top: 20px;
+	padding-left: 35px;
+	padding-bottom: 10px;
+	width: 250px;
+	height: 200px;
+}
+.top-right2 {
+	float: right;
+	padding-top: 20px;
+	padding-left: 35px;
+	padding-bottom: 10px;
+	width: 125px;
+	height: 125px;
+}
+.top-right3 {
+	float: right;
+	padding-left: 35px;
+	padding-bottom: 10px;
+	width: 250px;
+	height: 200px;
+}
+.headertitel {
+	padding: 10px;
+
+}
+.kop {
+	margin-bottom: 20px;
+}
+#article {
+	padding: 20px;
+	font-family: sans serif;
+}
+.articletekst {
+	float: left;
+}
