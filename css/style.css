@@ -11,7 +11,7 @@ body {
 
 ul {
     list-style-type: none;
-    font-size: 13px;
+    font-size: 20px;
 }
 
 li {
@@ -37,7 +37,7 @@ li a:hover {
 
 .tekst3 {
     width: 100%;
-    height: 200px;
+    height: 175px;
     padding-left: 15px;
     padding-top: 7px;
 }
@@ -63,7 +63,7 @@ main {
 
 header {
     width: 800px;
-    height: 264px;
+    height: 268px;
     margin: 0 auto;
     background-image: url(grfx/header.jpg);
     background-repeat: no-repeat;
@@ -131,5 +131,5 @@ header {
 
 #afbeelding12 {
     float: right;
-    padding-right: 100px;
+    padding: 20px;
 }
