@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+	font-family: arial;
+    background: url(grfx/bg.png);
+    background-repeat: repeat-x;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: lightblue;
+}
+
+.tekst2 {
+    padding-left: 15px;
+    padding-top: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.tekst3 {
+    width: 100%;
+    height: 175px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+
+.tekst4 {
+    background-color: white;
+    height: 50px;
+    width: 780px;
+}
+
+.tekst5 {
+    padding: 10px;
+    font-size: 19px;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    width: 780px;
+    word-break: normal;
+    margin: 0 auto;
+}
+
+header {
+    width: 800px;
+    height: 268px;
+    margin: 0 auto;
+    background-image: url(grfx/header.jpg);
+    background-repeat: no-repeat;
+}
+
+#afbeelding0 {
+    float: left;
+    padding-right: 15px; 
+}
+
+#afbeelding1 {
+    float: left;
+    padding-right: 15px;
+}
+
+#afbeelding2 {
+    float: right;
+    padding-left: 15px;
+}
+
+#afbeelding3 {
+    float: left;
+    padding-right: 15px;
+}
+
+#afbeelding4 {
+    float: left;
+    padding-right: 15px;
+}
+
+#afbeelding5 {
+    float: right;
+    padding: 10px;
+}
+
+#afbeelding6 {
+    float: left;
+    padding: 10px;
+}
+
+#afbeelding7 {
+    float: left;
+    padding: 10px;
+}
+
+#afbeelding8 {
+    float: left;
+    padding: 10px;
+}
+
+#afbeelding9 {
+    float: left;
+    padding: 10px;
+}
+
+#afbeelding10 {
+    float: right;
+    padding: 10px;
+}
+
+#afbeelding11 {
+    float: left;
+    padding-right: 15px;
+}
+
+#afbeelding12 {
+    float: right;
+    padding: 20px;
+}
