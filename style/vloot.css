@@ -1,0 +1,69 @@
+header {
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 268px; 
+}
+
+main {
+	margin: 0 auto;
+	width: 800px; 
+	background-color: white;
+	padding: 0px 0px 100px 0px; 
+}
+
+* {
+	margin: 0;
+}
+
+img.floatleft {
+	float: left;
+	margin: 10px;
+}
+
+body {
+	background-image: url(bg.png);
+	background-repeat: repeat-x; 
+	font-family: sans-serif;
+} 
+
+p {
+	margin: 0 10px;
+}
+
+h2 {
+	margin: 0 15px;
+	padding: 20px;
+}
+
+ul li{
+	display: inline;
+	padding: 16px;
+	list-style-type: none;
+}
+
+.top-menu {
+	margin-top: 150px;
+}
+
+.top-menu a {
+	color: white;
+	text-decoration: none;
+}
+
+img.floatright {
+	float: right;
+	margin: 10px;
+} 
+
+.section {
+	font-size: 20px; 
+} 
+
+ul li a:hover {
+	color: #ddd;
+} 
+
+h1 {
+	padding: 10px;
+}
