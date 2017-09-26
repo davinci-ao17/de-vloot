@@ -56,3 +56,6 @@ li a {
   margin-left: 10px;
   margin-top: 10px;
 }
+a:hover {
+  color: #a6a6a6;
+}
