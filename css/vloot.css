@@ -1,0 +1,98 @@
+p, h1, h2, h3 {
+    color: black;
+}
+
+.header{
+    
+    width:100%;
+    
+}
+
+.navbar{
+    
+    position: absolute; 
+    top: 88%; 
+    left: 0; 
+    width: 100%;
+    
+}
+
+.navbarHeader{
+    
+    width: 50%;
+    position: absolute; 
+    top: 0px; 
+    left: 0; 
+    width: 100%;
+    
+}
+
+a{
+    
+    padding-right: 4%;
+    margin-left: -2%;
+    color: white;
+    
+}
+
+.navbarImg{
+    
+    position: relative;
+    margin-left: 27.5%;
+    
+}
+
+ul {
+    
+    list-style-type: none;
+    
+}
+
+.pageRow{
+    
+    background-color: #a9d5d4;
+    height: 300px;
+    width:100%;
+    
+}
+
+.infoDiv{
+    
+    position: absolute; 
+    top: 28.6%; 
+    left: 27.5%; 
+    width: 42.05%;
+    height: 600px;
+    background-color: white;
+    padding-left: 1%;
+    
+}
+
+.infoText{
+    
+    margin-left: 10px;
+    
+}
+
+.leftImg{
+    
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
+
+.rightImg{
+    
+    float: right;
+    margin-left: 10px;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
