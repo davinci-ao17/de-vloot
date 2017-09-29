@@ -80,11 +80,19 @@ ul {
     margin-right: 10px;
     margin-left: 10px;
     
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
 }
 
 .rightImg{
     
     float: right;
     margin-left: 10px;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
     
 }
