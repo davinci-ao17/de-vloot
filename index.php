@@ -1,4 +1,5 @@
 <?php
+$page = "home";
 include_once 'pages/parts/head.php';
 include_once 'pages/parts/navbar.php';
  ?>
