@@ -1,0 +1,137 @@
+/*  Kevin Kraaijveld CSS Vloot
+============================================================================
+
+1. Algemene CSS
+2. Header
+3. CONTENT BLOCKS
+4. Overige CSS
+
+============================================================================ */
+
+
+/* 1. Algemene CSS
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+body {
+  font-family: sans serif;
+  color: #eee;
+  background-image: url("images/bg.png");
+  background-repeat: repeat-x;
+  font-size: 14px;
+  line-height: 21px;
+  margin:0px;
+  height: 860px;
+}
+
+p {
+  font-size:18px;
+  margin: 0 10px 10px 10px;
+  color: #000;
+}
+
+h1{
+   font-family: sans serif;
+   font-weight: bold;
+   font-size: 30px;
+   color: #000;
+   margin:20px 0 0 10px;
+}
+
+h2{
+   font-family: sans serif;
+   font-size: 30px;
+   color: #000;
+   margin:0px;
+   padding:20px 0 20px 15px;
+}
+h3{
+   font-size: 25px;
+    color: #eee;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover{
+    color:#a0a0a0;
+}
+
+
+/* 2. HEADER
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+header{
+    background-image: url("images/header.jpg");
+    background-position: center; 
+    height: 268px;
+    width: 63%;
+    margin: 0 200px 0 200px;
+}
+div#title{
+    padding: 5px 0 0 15px;
+}
+
+/*    Nav
+---------------------------------------------------------------------------- */
+nav#menu{
+    display:inline;
+}
+
+ul{
+    margin: 166px 0 0 5px;
+    padding:0px;
+}
+
+li{
+    display: inline;
+    padding-left: 10px;
+}
+
+li.active a{
+    color:#A9D5D4;
+}
+
+li.active a:hover{
+    color:#a0a0a0;
+}
+
+/* 3. CONTENT BLOCKS
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/*    Main
+---------------------------------------------------------------------------- */
+main{
+    background-color: #fff;
+    width: 63%;
+    margin: 0 200px 0 200px;
+}
+
+img.top-left{
+    float:left;
+    margin:0 15px 25px 0;
+}
+img.top-right{
+    float:right;
+    margin:0 15px 25px 15px;
+}
+img.left{
+    float:left;
+    margin:10px 15px 0 0;
+}
+img.right{
+    float:right;
+    margin:10px 15px 0 15px;
+}
+/*     Footer
+---------------------------------------------------------------------------- */
+footer{
+    position: fixed;  
+    bottom: 10px;
+    right: 15px;
+}
+
+/* 4. Overige CSS
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+
+
+/*Made by Kevin Kraaijveld*/

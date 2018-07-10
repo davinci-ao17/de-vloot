@@ -1,3 +1,5 @@
+HTML opdracht 3
+
 # De vloot
 
 Bij deze opdracht ga je er voor zorgen dat afbeeldigen goed worden uitgelijnd in de tekst.  De opdrachtgever vraagt je een website te bouwen voor zijn vloot.
@@ -20,11 +22,11 @@ De vloot moet aan de volgende functionele eisen voldoen:
 * Alle links op de pagina veranderen van kleur als je over een link heen gaat
 
 ### Technische eisen
-Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
+Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven.
 
 De vloot moet aan de volgende technische eisen voldoen:
 * Alle documenten zijn geschreven in HTML5
-* Alle documenten bevatten het correcte doctype 
+* Alle documenten bevatten het correcte doctype
 * Alle documenten bestaan uit een head en body
 * Alle documenten hebben een title
 * Alle documenten bevatten correcte koppen, paragrafen, lijsten, afbeeldingen en links
